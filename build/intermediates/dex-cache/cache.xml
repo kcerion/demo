@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\StudioProjects\MyRStudyListView\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_cd17d326241b6d6a08c4f9f4a82851f94ea26bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\StudioProjects\MyRStudyListView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c105912de5fba878706eeb6bae9df9a5b3a801dc">
+        <dex dex="D:\StudioProjects\MyRStudyListView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f24ee951465614203b93efe86355201616fd034d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\StudioProjects\MyRStudyListView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e00515dd15c7ce96da8ece1157ff02d66a5bad73">
+        <dex dex="D:\StudioProjects\MyRStudyListView\app\build\intermediates\pre-dexed\debug\instant-run_2b14bf9fdb9c4078e45ff9f707f30364d3e274b0.jar" />
+    </item>
+
+</items>

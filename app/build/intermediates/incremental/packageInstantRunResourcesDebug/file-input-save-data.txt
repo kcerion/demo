@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Dec 13 17:02:37 GMT+08:00 2016
+2.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\arraylist_item.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\StudioProjects\\MyRStudyListView\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

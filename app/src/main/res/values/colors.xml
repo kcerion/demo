@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="oringe">#F97C20</color>
+    <color name="deepred">#890010</color>
+    <color name="yellow">#B1E518</color>
+    <color name="blue">#009FE9</color>
+    <color name="shityellow">#F9C980</color>
+    <color name="green">#20B148</color>
+    <color name="purple">#A148A1</color>
+    <color name="pink">#F9ADC9</color>
+    <color name="red">#E91B1F</color>
+
+</resources>
